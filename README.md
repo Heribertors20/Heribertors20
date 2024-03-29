@@ -29,12 +29,12 @@
 <details>
   <summary>🚀 Proyectos destacados</summary>
   
-  - **PSICEFA:** https://github.com/Heribertors20/SICEFA.git.
+  - **SICEFA:** [https://github.com/Heribertors20/SICEFA.git](https://github.com/Heribertors20/SICEFA.git)
 </details>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luis-heriberto-silva-ramirez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:78804@alumnos.utleon.edu.mx"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://api.whatsapp.com/send?phone=4774792512" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="mailto:78804@alumnos.utleon.edu.mx"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
 </div>

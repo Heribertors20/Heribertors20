@@ -35,6 +35,6 @@
 ---
 
 <div align="center">
-  <a href="https://api.whatsapp.com/send?phone=4774792512" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://api.whatsapp.com/send?phone=524774792512" target="_blank"><img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="mailto:78804@alumnos.utleon.edu.mx"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
 </div>

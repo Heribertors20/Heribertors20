@@ -1,6 +1,6 @@
 # Luis Heriberto Silva Ramirez
 
-![Luis Heriberto Silva Ramirez](https://via.placeholder.com/500x300)
+![Luis Heriberto Silva Ramirez](https://scontent.fntr10-1.fna.fbcdn.net/v/t39.30808-6/300268032_394250789483124_3309191495934087042_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=asuBdHgqpEcAX8fnhT5&_nc_ht=scontent.fntr10-1.fna&oh=00_AfDvtQyOJTy-wI1FWT0jL5PqNxM3CRwLq99OeO8uLCf3gA&oe=660BB204)
 
 **Edad:** 20 años  
 **Estudiando en:** Universidad Tecnológica de Leon  

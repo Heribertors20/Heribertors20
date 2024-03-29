@@ -1,85 +1,45 @@
-<!DOCTYPE html>
-<html lang="es">
+# Luis Heriberto Silva Ramirez
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Presentación de Luis Heriberto Silva Ramirez</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
-      color: #333;
-      margin: 0;
-      padding: 0;
-    }
+**Edad:** 20 años  
+**Estudiando en:** Universidad Tecnológica de Leon  
+**Carrera:** Desarrollo de Software Multiplataforma  
+**Título:** PTB. en Mecatrónica  
 
-    .container {
-      max-width: 800px;
-      margin: 50px auto;
-      padding: 20px;
-      background-color: #fff;
-      border-radius: 5px;
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    }
+## Conocimientos en:
 
-    h1 {
-      color: #007bff;
-      text-align: center;
-    }
+- HTML 5
+- CSS3
+- JAVA
+- JAVASCRIPT
+- SQL
+- C++ (para Arduino)
 
-    p {
-      text-align: center;
-    }
+---
 
-    .skills {
-      margin-top: 20px;
-      text-align: center;
-    }
+<div align="center">
+  <img src="https://via.placeholder.com/150" alt="Luis Heriberto Silva Ramirez">
+</div>
 
-    .skills ul {
-      list-style-type: none;
-      padding: 0;
-    }
+---
 
-    .skills ul li {
-      display: inline-block;
-      margin-right: 10px;
-      background-color: #007bff;
-      color: #fff;
-      padding: 5px 10px;
-      border-radius: 5px;
-    }
+<details>
+  <summary>ℹ️ Acerca de mí</summary>
+  
+  Soy un estudiante apasionado por la tecnología y el desarrollo de software. Me interesa especialmente el desarrollo multiplataforma y tengo experiencia en los lenguajes mencionados anteriormente.
+</details>
 
-    .footer {
-      text-align: center;
-      margin-top: 50px;
-    }
-  </style>
-</head>
+---
 
-<body>
-  <div class="container">
-    <h1>Luis Heriberto Silva Ramirez</h1>
-    <p>Edad: 20 años</p>
-    <p>Estudiando en la Universidad Tecnológica de León</p>
-    <p>Carrera: Desarrollo de Software Multiplataforma</p>
-    <p>Título: PTB. en Mecatrónica</p>
-    <div class="skills">
-      <h2>Conocimientos en:</h2>
-      <ul>
-        <li>HTML 5</li>
-        <li>CSS3</li>
-        <li>JAVA</li>
-        <li>JAVASCRIPT</li>
-        <li>SQL</li>
-        <li>C++ (para Arduino)</li>
-      </ul>
-    </div>
-    <div class="footer">
-      <p>¡Gracias por visitar mi perfil!</p>
-    </div>
-  </div>
-</body>
+<details>
+  <summary>📚 Proyectos destacados</summary>
+  
+  - Proyecto 1: Descripción breve del proyecto y tecnologías utilizadas.
+  - Proyecto 2: Descripción breve del proyecto y tecnologías utilizadas.
+</details>
 
-</html>
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luis-heriberto-silva-ramirez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ejemplo@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</div>

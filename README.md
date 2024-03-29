@@ -29,8 +29,7 @@
 <details>
   <summary>🚀 Proyectos destacados</summary>
   
-  - **Proyecto 1:** Descripción breve del proyecto y tecnologías utilizadas.
-  - **Proyecto 2:** Descripción breve del proyecto y tecnologías utilizadas.
+  - **Proyecto 1:** https://github.com/Heribertors20/SICEFA.git.
 </details>
 
 ---

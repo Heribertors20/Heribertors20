@@ -29,7 +29,7 @@
 <details>
   <summary>🚀 Proyectos destacados</summary>
   
-  - **Proyecto 1:** https://github.com/Heribertors20/SICEFA.git.
+  - **PSICEFA:** https://github.com/Heribertors20/SICEFA.git.
 </details>
 
 ---

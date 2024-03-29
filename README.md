@@ -1,5 +1,7 @@
 # Luis Heriberto Silva Ramirez
 
+![Luis Heriberto Silva Ramirez](https://via.placeholder.com/500x300)
+
 **Edad:** 20 años  
 **Estudiando en:** Universidad Tecnológica de Leon  
 **Carrera:** Desarrollo de Software Multiplataforma  
@@ -16,12 +18,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="Luis Heriberto Silva Ramirez">
-</div>
-
----
-
 <details>
   <summary>ℹ️ Acerca de mí</summary>
   
@@ -31,15 +27,15 @@
 ---
 
 <details>
-  <summary>📚 Proyectos destacados</summary>
+  <summary>🚀 Proyectos destacados</summary>
   
-  - Proyecto 1: Descripción breve del proyecto y tecnologías utilizadas.
-  - Proyecto 2: Descripción breve del proyecto y tecnologías utilizadas.
+  - **Proyecto 1:** Descripción breve del proyecto y tecnologías utilizadas.
+  - **Proyecto 2:** Descripción breve del proyecto y tecnologías utilizadas.
 </details>
 
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/luis-heriberto-silva-ramirez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ejemplo@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/luis-heriberto-silva-ramirez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ejemplo@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
